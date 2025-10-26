@@ -75,7 +75,7 @@ const Index = () => {
           <div className="animate-fade-in">
             <Badge className="mb-4 bg-secondary">Ручная работа</Badge>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              Садовая мебель и беседки из натурального дерева
+              Садовая мебель из натурального дерева
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
               Создаём уютные пространства для вашего сада с душой и заботой о качестве. 
