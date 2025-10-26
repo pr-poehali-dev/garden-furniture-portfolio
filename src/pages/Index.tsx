@@ -306,7 +306,7 @@ const Index = () => {
                 <ul className="space-y-2 text-muted-foreground">
                   <li className="flex items-start gap-2">
                     <Icon name="Check" size={20} className="text-secondary mt-0.5" />
-                    <span>Бесплатная доставка по Москве и области</span>
+                    <span>Бесплатная доставка по Мелитополю</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <Icon name="Check" size={20} className="text-secondary mt-0.5" />
@@ -375,7 +375,7 @@ const Index = () => {
                     <Icon name="MapPin" size={24} className="text-primary mt-1" />
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Адрес</h3>
-                      <p className="text-muted-foreground">Москва и Московская область</p>
+                      <p className="text-muted-foreground">Мелитополь</p>
                     </div>
                   </div>
                   
